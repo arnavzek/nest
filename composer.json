@@ -1,0 +1,9 @@
+{
+	"require":{
+		"aws/aws-sdk-php":"*",
+		"facebook/graph-sdk":"*",
+		"google/apiclient": "^2.0",
+		"sendgrid/sendgrid": "^7.0",
+		"ext-gd": "^7.0"
+	}
+}

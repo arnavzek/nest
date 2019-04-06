@@ -1,0 +1,28 @@
+<svg width="19" height="14" viewBox="0 0 19 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>icon_add_photo</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(4380 2475)" figma:type="canvas">
+<g id="icon_add_photo" figma:type="frame">
+<g id="Page-1" figma:type="frame">
+<g id="Artboard-39" figma:type="frame">
+<g id="Page-1" figma:type="frame">
+<g id="Rectangle-17" figma:type="vector">
+<use xlink:href="#path0_fill" transform="translate(-4380 -2475)" fill="#999999"/>
+</g>
+<g id="Fill-1" figma:type="vector">
+<use xlink:href="#path1_fill" transform="translate(-4376.99 -2470)" fill="#FFFFFF"/>
+</g>
+<g id="Fill-2" figma:type="vector">
+<use xlink:href="#path2_fill" transform="translate(-4377 -2472)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 17 0L 2 0C 0.89543 0 0 0.89543 0 2L 0 12C 0 13.1046 0.89543 14 2 14L 17 14C 18.1046 14 19 13.1046 19 12L 19 2C 19 0.89543 18.1046 0 17 0Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 9.01636 -1.875e-09L 5.67312 4.1223L 2.98853 1.99683L -4.375e-09 6.00842L 13.0561 6.00842L 9.01636 -1.875e-09Z"/>
+<path id="path2_fill" fill-rule="evenodd" d="M 3 1.49927C 3 3.50024 0 3.50024 0 1.49927C 0 -0.499758 3 -0.499758 3 1.49927Z"/>
+</defs>
+</svg>

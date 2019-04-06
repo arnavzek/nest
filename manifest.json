@@ -1,0 +1,15 @@
+{
+  "short_name": "Fleeke",
+  "name": "Fleeke",
+  "icons": [
+    {
+      "src": "https://s3.us-east-2.amazonaws.com/lluda-main/manual/fleeke_logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "index.php",
+  "background_color": "#db6b5f",
+  "display": "standalone",
+  "theme_color": "#db6b5f"
+}
