@@ -142,7 +142,7 @@ $email->addTo($to);
 $email->addContent( "text/html", $message
 );
 
-$sendgrid = new \SendGrid( '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' );
+$sendgrid = new \SendGrid($sendgrid_api);
 
 try {
 
